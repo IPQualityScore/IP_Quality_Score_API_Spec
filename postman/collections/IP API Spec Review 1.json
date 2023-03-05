@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "47db4ce3-4ab3-4b53-9b2e-a4ed69e02dc4",
-		"name": "IP API Spec Review 1",
+		"name": "IPQualityScore API",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "18358407-47db4ce3-4ab3-4b53-9b2e-a4ed69e02dc4"
 	},
